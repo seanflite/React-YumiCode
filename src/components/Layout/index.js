@@ -8,7 +8,6 @@ const Layout = () => {
         <div className='page'>
             <span className='tags top-tags'>&lt;body&gt;</span>
 
-            <br></br>
 
             <span className='tags bottom-tags'>
                 &lt;body&gt;
