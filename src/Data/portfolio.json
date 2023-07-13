@@ -1,28 +1,22 @@
 {
-    "portfolio": [
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        }
-    ]
+  "portfolio": [
+    {
+      "cover": "/portfolio/1/one.png",
+      "title": "GGWP",
+      "description": "React, JSX, Tailwind, Jest",
+      "url": "http://google.com"
+    },
+    {
+      "cover": "/portfolio/1/ScooterCity.png",
+      "title": "Scooter E-commerce website",
+      "description": "E-commerce",
+      "url": "http://google.com"
+    },
+    {
+      "cover": "/portfolio/1/doctor.png",
+      "title": "Doctor Online Appointment",
+      "description": "React, JSX, Tailwind, Jest",
+      "url": "http://google.com"
+    }
+  ]
 }
